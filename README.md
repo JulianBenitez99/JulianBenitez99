@@ -8,7 +8,7 @@
 
 I'm Julián, a Software Engineer from Colombia.
 
-* Working for Perficient Latin America (formerly PSL) 💻
+* Working for VMware 💻
 
 # Stats 🌟
 
