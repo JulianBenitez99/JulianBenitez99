@@ -51,6 +51,12 @@ I'm Julián, a Software Engineer from Colombia.
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+# Other Websites 📄
+<div align="left">
+    <a href="https://www.codewars.com/users/JulianBenitez99">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
+    </a>
+</div>
 
 <!--
 https://githubmemory.com/repo/toliboff/markdown-badges
