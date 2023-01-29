@@ -1,14 +1,12 @@
-
-
 # Hey folks! 👋 Welcome To My GitHub
 
 <div align="center">
     <img src="resources/chill_mario.gif" alt="chill_mario" width="500"/>
 </div>
 
-I'm Julián, a Software Engineer from Colombia.
+I'm Julián, a Software Engineer from Colombia 🇨🇴
 
-* Working for VMware 💻
+* Currently working at VMware 💻
 
 # Stats 🌟
 
