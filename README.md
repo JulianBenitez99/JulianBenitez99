@@ -6,7 +6,6 @@
 
 I'm Julián, a Software Engineer from Colombia 🇨🇴
 
-* Currently working at VMware 💻
 * Master's student in Computer Science with emphasis on Advanced Software Engineering
 
 # Stats 🌟
