@@ -12,12 +12,12 @@ I'm Julián, a Software Engineer from Colombia 🇨🇴
 
 ## GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JulianBenitez99&show_icons=true&count_private=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jubenitezg&show_icons=true&count_private=true" alt="Stats" />
 </div>
 
 ## Top Languages
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBenitez99" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubenitezg" alt="Top Langs" />
 </div>
 
 # Tech Stack ⚙️
